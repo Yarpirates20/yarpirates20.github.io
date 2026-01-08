@@ -1,6 +1,7 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Stack Thief
+author: Rob Samoraj
+baseurl: "/"
+url: "https://yarpirates20.github.io" # root address of the site
 description: > # description of the site (multiple lines allowed)
   Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
 
@@ -8,9 +9,10 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
+github_username: yarpirates20
+# twitter:
+#     username: abhinav # update or delete this
+#     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -48,4 +50,4 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-soopr-seo-tag
+  - jekyll-seo-tag
