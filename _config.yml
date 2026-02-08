@@ -3,7 +3,7 @@ author: Rob Samoraj
 baseurl: "/"
 url: "https://yarpirates20.github.io" # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Reader of books, programmer of...programs, origami expert. To hell with protocols! I'll ask you directly: please feel free to browse my projects and contact me. Shocking stuff.
+  Reader of books, programmer of...programs, origami expert. Please feel free to browse my projects and contact me. 
 
 
 permalink: /:slug

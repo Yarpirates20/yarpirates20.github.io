@@ -9,31 +9,43 @@ navbar_entries:
   #   url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: File Explorer
+    url:  https://github.com/Yarpirates20/FileExplorer
+    desc: File Explorer GUI 
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Maze Generator
+    url: https://github.com/Yarpirates20/mazes
+    desc: Uses graph algorithms and a C++ bitmap library to create a maze.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Pong Clone
+    url: https://github.com/Yarpirates20/pang_derivative
+    desc: A derivative of the classic Pong game called "Pang".
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Game of Life Remix
+    url: https://github.com/Yarpirates20/ConwaysGameOfLifeRemix
+    desc: Conway's Game of Life in C++ using a static library.
+  
+  # - title: Project 2
+  #   url: overview-post
+  #   desc: Projects are shown in card layout
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  # - title: Project 3
+  #   url: overview-post
+  #   desc: You can control visibility from _config.yml file
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  # - title: Project 4
+  #   url: overview-post
+  #   desc: This project uses highlight markup, configured in _data/home.yml
+  #   highlight: WIP
+
+  # - title: Project 5
+  #   url: overview-post
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
+
+  # - title: Project 6
+  #   url: overview-post
+  #   desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
