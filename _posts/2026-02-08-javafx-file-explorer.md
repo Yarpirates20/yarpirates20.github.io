@@ -4,7 +4,7 @@ author: Rob Samoraj
 tags: [java, gui, file]
 ---
 
-I made a file explorer for a programming class using JavaFX to create the GUI. The splash page for the program has a giant eye, since one LOOKS at files in a file viewer. [^1]
+I made a file explorer for a programming class using JavaFX to create the GUI. The splash page for the program has a giant eye, since a user LOOKS at files in a file viewer. Witty! [^1]
 
 ![splash page](assets/images/java_file_viewer_project/splash_page.png)
 
