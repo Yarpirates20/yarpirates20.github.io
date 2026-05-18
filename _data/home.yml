@@ -9,13 +9,18 @@ navbar_entries:
   #   url: https://www.abhinav.co
 
 project_entries:
-  - title: File Explorer
-    url:  https://github.com/Yarpirates20/FileExplorer
-    desc: File Explorer GUI 
+  - title: L-System
+    url: https://github.com/Yarpirates20/l-system
+    desc: L-System Simulation
 
   - title: Maze Generator
     url: https://github.com/Yarpirates20/mazes
     desc: Uses graph algorithms and a C++ bitmap library to create a maze.
+
+  - title: File Explorer
+    url:  https://github.com/Yarpirates20/FileExplorer
+    desc: File Explorer GUI 
+
 
   - title: Pong Clone
     url: https://github.com/Yarpirates20/pang_derivative
@@ -25,9 +30,6 @@ project_entries:
     url: https://github.com/Yarpirates20/ConwaysGameOfLifeRemix
     desc: Conway's Game of Life in C++ using a static library.
   
-  # - title: Project 2
-  #   url: overview-post
-  #   desc: Projects are shown in card layout
 
   # - title: Project 3
   #   url: overview-post
